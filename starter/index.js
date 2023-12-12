@@ -87,11 +87,21 @@ var finances = [
   ['Feb-2017', 671099],
 ];
 
+// Full elements of finances//
+
+console.log (finances);
+
 // The total number of months included in the dataset//
 
+console.log ("Number of months:" + finances.length);
 
-const keysArray = Object.keys(finances);
+/* The net total amount of Profit/Losses over the entire period */
 
-const count = keysArray.length;
+var total = 0;
 
-console.log ("Number of months:" +  keysArray.length);
+for (let index = 0; index < finances.length; index++) {
+  const element = finances[index];
+  var total = total + (element[1]);
+}
+console.log ("Net total:£" + total)
+
