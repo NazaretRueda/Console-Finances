@@ -3,7 +3,7 @@ Creating code for analysing the financial records of a company
 
 ## Description 
 
-I ave been given a dataset composed of arrays with two fields, Date and Profit/Losses.
+I have been given a dataset composed of arrays with two fields, Date and Profit/Losses.
 
 My task in this challenge is to write JavaScript code that analyzes the records to calculate each of the following:
 
@@ -16,7 +16,7 @@ My task in this challenge is to write JavaScript code that analyzes the records 
 ## Usage 
 ![Alt text](/starter/Consolescreen.png)
 
-https://nazaretrueda.github.io/Console-Finances/
+[https://nazaretrueda.github.io/Console-Finances/](https://nazaretrueda.github.io/Console-Finances/)
 
 
 ## Credits
