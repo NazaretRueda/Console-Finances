@@ -128,3 +128,15 @@ console.log("Greatest increase in Profit/Lossess:", elementAux)
 
 /*The greatest decrease in Profit/Losses (date and amount) over the entire period. */
 
+console.log (finances)
+var elementAux = ["Dec-2009", 0];
+for (let i = 0; i < finances.length; i++) {
+  const element = finances[i];
+
+  if (element[1]<elementAux[1]){
+    elementAux = element
+    console.log("data");
+  }
+}
+
+console.log("Greatest decrease in Profit/Lossess:", elementAux)
