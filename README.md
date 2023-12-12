@@ -14,7 +14,10 @@ My task in this challenge is to write JavaScript code that analyzes the records 
 * The greatest decrease in Profit/Losses (date and amount) over the entire period.
 
 ## Usage 
-![Alt text](assets/images/screenshotHoriseon.png)
+![Alt text](/starter/Consolescreen.png)
+
+
+
 
 
 ## Credits
