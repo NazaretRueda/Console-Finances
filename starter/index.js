@@ -105,3 +105,9 @@ for (let index = 0; index < finances.length; index++) {
 }
 console.log ("Net total:£" + total)
 
+/* The average of the changes in Profit/Losses over the entire period. */
+
+  var average = (total/(finances.length));
+
+console.log ("Profit/Losses average:£" + average)
+
